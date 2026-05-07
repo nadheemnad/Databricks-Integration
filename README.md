@@ -1,3 +1,3 @@
 # Databricks-Integration
 
-This is for my Dtaabricks and git integration topic
+This is for my Databricks and git integration topic
